@@ -1,0 +1,26 @@
+
+h1{
+    text-align: center;
+}
+.first{
+width: 800px;
+height: 500px;
+border: 10px solid black;
+background-color: rgb(230, 57, 230);
+margin: 100px 550px;
+font-size: 20px;
+}
+
+.second{
+    
+    border: 10px dotted black;
+    padding:50px;
+    margin: 60px;
+    background-color: rgb(240, 240, 21);
+}
+.third{
+    border: 10px dashed black;
+    padding: 40px;
+  margin: 40px;
+  background-color: rgb(84, 197, 245);
+}
